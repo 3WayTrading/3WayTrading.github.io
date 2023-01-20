@@ -1,6 +1,6 @@
 # Site settings
 title: 3WT - 3 Way Trading Company
-email:
+email: contact@3wt.mx
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
